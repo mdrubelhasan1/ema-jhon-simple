@@ -2,6 +2,7 @@ import React from 'react';
 import './Cart.css';
 
 const Cart = ({cart}) => {
+    // mycart
     // option-1
     // const cart = props.cart;
     // option-2 
